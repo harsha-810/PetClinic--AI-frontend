@@ -1,0 +1,54 @@
+> Task :app:clean
+> Task :app:preBuild UP-TO-DATE
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:generateDebugResValues
+> Task :app:mapDebugSourceSetPaths
+> Task :app:generateDebugResources
+> Task :app:checkDebugAarMetadata
+> Task :app:packageDebugResources
+> Task :app:createDebugCompatibleScreenManifests
+> Task :app:extractDeepLinksDebug
+> Task :app:parseDebugLocalResources
+> Task :app:processDebugMainManifest
+> Task :app:mergeDebugResources
+> Task :app:processDebugManifest
+> Task :app:javaPreCompileDebug
+> Task :app:mergeDebugShaders
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets
+> Task :app:compressDebugAssets
+> Task :app:processDebugManifestForPackage
+> Task :app:desugarDebugFileDependencies
+> Task :app:mergeDebugJniLibFolders
+> Task :app:checkDebugDuplicateClasses
+> Task :app:mergeDebugNativeLibs
+> Task :app:mergeLibDexDebug
+
+> Task :app:stripDebugDebugSymbols
+Unable to strip the following libraries, packaging them as they are: libandroidx.graphics.path.so.
+
+> Task :app:validateSigningDebug
+> Task :app:writeDebugAppMetadata
+> Task :app:writeDebugSigningConfigVersions
+> Task :app:processDebugResources
+> Task :app:mergeExtDexDebug
+
+> Task :app:compileDebugKotlin
+w: file:///C:/Users/CHEVU/AndroidStudioProjects/PetClinicAPP/app/src/main/java/com/example/petclinicapp/ui/LoginScreen.kt:78:48 '@Deprecated(...) @ExperimentalMaterial3Api() @Composable() fun outlinedTextFieldColors(focusedTextColor: Color = ..., unfocusedTextColor: Color = ..., disabledTextColor: Color = ..., errorTextColor: Color = ..., containerColor: Color = ..., errorContainerColor: Color = ..., cursorColor: Color = ..., errorCursorColor: Color = ..., selectionColors: TextSelectionColors = ..., focusedBorderColor: Color = ..., unfocusedBorderColor: Color = ..., disabledBorderColor: Color = ..., errorBorderColor: Color = ..., focusedLeadingIconColor: Color = ..., unfocusedLeadingIconColor: Color = ..., disabledLeadingIconColor: Color = ..., errorLeadingIconColor: Color = ..., focusedTrailingIconColor: Color = ..., unfocusedTrailingIconColor: Color = ..., disabledTrailingIconColor: Color = ..., errorTrailingIconColor: Color = ..., focusedLabelColor: Color = ..., unfocusedLabelColor: Color = ..., disabledLabelColor: Color = ..., errorLabelColor: Color = ..., focusedPlaceholderColor: Color = ..., unfocusedPlaceholderColor: Color = ..., disabledPlaceholderColor: Color = ..., errorPlaceholderColor: Color = ..., focusedSupportingTextColor: Color = ..., unfocusedSupportingTextColor: Color = ..., disabledSupportingTextColor: Color = ..., errorSupportingTextColor: Color = ..., focusedPrefixColor: Color = ..., unfocusedPrefixColor: Color = ..., disabledPrefixColor: Color = ..., errorPrefixColor: Color = ..., focusedSuffixColor: Color = ..., unfocusedSuffixColor: Color = ..., disabledSuffixColor: Color = ..., errorSuffixColor: Color = ...): TextFieldColors' is deprecated. Renamed to `OutlinedTextFieldDefaults.colors` with additional parameters tocontrol container color based on state.
+w: file:///C:/Users/CHEVU/AndroidStudioProjects/PetClinicAPP/app/src/main/java/com/example/petclinicapp/ui/LoginScreen.kt:91:48 '@Deprecated(...) @ExperimentalMaterial3Api() @Composable() fun outlinedTextFieldColors(focusedTextColor: Color = ..., unfocusedTextColor: Color = ..., disabledTextColor: Color = ..., errorTextColor: Color = ..., containerColor: Color = ..., errorContainerColor: Color = ..., cursorColor: Color = ..., errorCursorColor: Color = ..., selectionColors: TextSelectionColors = ..., focusedBorderColor: Color = ..., unfocusedBorderColor: Color = ..., disabledBorderColor: Color = ..., errorBorderColor: Color = ..., focusedLeadingIconColor: Color = ..., unfocusedLeadingIconColor: Color = ..., disabledLeadingIconColor: Color = ..., errorLeadingIconColor: Color = ..., focusedTrailingIconColor: Color = ..., unfocusedTrailingIconColor: Color = ..., disabledTrailingIconColor: Color = ..., errorTrailingIconColor: Color = ..., focusedLabelColor: Color = ..., unfocusedLabelColor: Color = ..., disabledLabelColor: Color = ..., errorLabelColor: Color = ..., focusedPlaceholderColor: Color = ..., unfocusedPlaceholderColor: Color = ..., disabledPlaceholderColor: Color = ..., errorPlaceholderColor: Color = ..., focusedSupportingTextColor: Color = ..., unfocusedSupportingTextColor: Color = ..., disabledSupportingTextColor: Color = ..., errorSupportingTextColor: Color = ..., focusedPrefixColor: Color = ..., unfocusedPrefixColor: Color = ..., disabledPrefixColor: Color = ..., errorPrefixColor: Color = ..., focusedSuffixColor: Color = ..., unfocusedSuffixColor: Color = ..., disabledSuffixColor: Color = ..., errorSuffixColor: Color = ...): TextFieldColors' is deprecated. Renamed to `OutlinedTextFieldDefaults.colors` with additional parameters tocontrol container color based on state.
+w: file:///C:/Users/CHEVU/AndroidStudioProjects/PetClinicAPP/app/src/main/java/com/example/petclinicapp/ui/PatientDashboardScreen.kt:97:33 '@Deprecated(...) @Composable() @ComposableTarget(...) fun Divider(modifier: Modifier = ..., thickness: Dp = ..., color: Color = ...): Unit' is deprecated. Renamed to HorizontalDivider.
+
+> Task :app:compileDebugJavaWithJavac NO-SOURCE
+> Task :app:processDebugJavaRes
+> Task :app:dexBuilderDebug
+> Task :app:mergeProjectDexDebug
+> Task :app:mergeDebugJavaResource
+> Task :app:packageDebug
+> Task :app:createDebugApkListingFileRedirect
+> Task :app:assembleDebug
+
+BUILD SUCCESSFUL in 32s
+35 actionable tasks: 35 executed

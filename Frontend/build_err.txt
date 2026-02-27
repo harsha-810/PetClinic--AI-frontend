@@ -1,0 +1,7 @@
+﻿Calculating task graph as no cached configuration is available for tasks: clean assembleDebug
+> Task :app:preBuild UP-TO-DATE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:preDebugBuild UP-TO-DATE
+> Task :app:clean FAILED
+1 actionable task: 1 executed
+Configuration cache entry stored.

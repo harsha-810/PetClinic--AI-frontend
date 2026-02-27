@@ -1,0 +1,32 @@
+﻿
+e: file:///C:/Users/CHEVU/A
+ndroidStudioProjects/PetCli
+nicAPP/app/src/main/java/co
+m/example/petclinicapp/netw
+ork/ApiService.kt:46:6 
+Unresolved reference 'PUT'.
+e: file:///C:/Users/CHEVU/A
+ndroidStudioProjects/PetCli
+nicAPP/app/src/main/java/co
+m/example/petclinicapp/ui/D
+octorDashboardScreen.kt:86:
+143 Unresolved reference 
+'Alignment'.
+e: file:///C:/Users/CHEVU/A
+ndroidStudioProjects/PetCli
+nicAPP/app/src/main/java/co
+m/example/petclinicapp/ui/P
+atientDashboardScreen.kt:81
+:57 Unresolved reference 
+'Alignment'.
+e: file:///C:/Users/CHEVU/A
+ndroidStudioProjects/PetCli
+nicAPP/app/src/main/java/co
+m/example/petclinicapp/ui/P
+atientDashboardScreen.kt:87
+:66 Unresolved reference 
+'Alignment'.
+FAILURE: Build failed with 
+an exception.
+
+
